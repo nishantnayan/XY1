@@ -1,3 +1,6 @@
+---
+layout: default
+title: "About"
 # BDC Downloader
 
 <p style="color: red;">Webapp for ordering, downloading and slicing measurement data files.</p>
